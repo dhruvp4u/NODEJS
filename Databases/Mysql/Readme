@@ -1,0 +1,9 @@
+#MySQL Connections#
+
+In this we will retrive the data of the mysql rows in form of JSON.
+
+Steps to follow :
+
+1) Install node-mysql using npm. ( using 'npm install node-mysql' command)
+2) Create a database named login_details and import the '.sql' file provided.
+3) Execute the file using 'nodejs mysql.js' command.
